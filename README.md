@@ -14,37 +14,25 @@ Please star / fork this repository if it is useful for you, as we intend to coun
 # Network Security Auditing Tool
 * NMAP - Network Security Auditing Tool - https://github.com/Binula-Kavisinghe/hashcat
 * NCRACK - High-speed Network Authentication Cracking Tool - https://github.com/Binula-Kavisinghe/ncrack
+* Linux WIFI Hotspot - Create wifi Hotspots in linux - https://github.com/Binula-Kavisinghe/linux-wifi-hotspot
+* TCP Dump - Data-Network Packet Analyzer - https://github.com/Binula-Kavisinghe/tcpdump
+* Networm - A Network Worm written in Python - https://github.com/Binula-Kavisinghe/NetWorm
 
-# The BEEF Project - Browser Expoloitation Framework
-https://github.com/Binula-Kavisinghe/beef
+# Browser Expoloitation
+* The BEEF Project - https://github.com/Binula-Kavisinghe/beef
 
+# Botnet Building Frameworks
+* Build Your Own Botnet (BYOB) Framework - https://github.com/Binula-Kavisinghe/byob
 
-# Linux WIFI Hotspot - Create wifi Hotspots in linux
-https://github.com/Binula-Kavisinghe/linux-wifi-hotspot
+# Fake Update injection
+* Evilgrade - https://github.com/Binula-Kavisinghe/evilgrade
 
-
-# TCP Dump - Data-Network Packet Analyzer
-https://github.com/Binula-Kavisinghe/tcpdump
-
-
-# BYOB - Build Your Own Botnet Framework
-https://github.com/Binula-Kavisinghe/byob
-
-
-# Networm - A Network Worm written in Python
-https://github.com/Binula-Kavisinghe/NetWorm
-
-
-# Evilgrade - Fake Update injection Framework
-https://github.com/Binula-Kavisinghe/evilgrade
-
-
-# Denial of service Attacks
+# Denial of Service Attacks
 https://github.com/Binula-Kavisinghe/DOS-Attack-Script
 https://github.com/Binula-Kavisinghe/webdos-ddoser
 
 
-# FileCrypt - File Encryptor
-https://github.com/Binula-Kavisinghe/filecrypt
+# File Encryptors
+* FileCrypt - https://github.com/Binula-Kavisinghe/filecrypt
 
 HAPPY ETHICAL HACKING....
