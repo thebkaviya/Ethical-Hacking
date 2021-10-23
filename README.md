@@ -35,4 +35,6 @@ https://github.com/Binula-Kavisinghe/webdos-ddoser
 # File Encryptors
 * FileCrypt - https://github.com/Binula-Kavisinghe/filecrypt
 
+
+# HatSploit Framework - Modular penetration testing platform
 HAPPY ETHICAL HACKING....
