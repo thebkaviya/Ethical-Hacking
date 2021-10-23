@@ -7,19 +7,13 @@ Please star / fork this repository if it is useful for you, as we intend to coun
  * The Fat Rat - https://github.com/Binula-Kavisinghe/TheFatRat
 
 
-# Hashcat - Password Cracking Utility
-https://github.com/Binula-Kavisinghe/hashcat
-https://github.com/Binula-Kavisinghe/hashcat-legacy
-https://github.com/Binula-Kavisinghe/hashcat-utils
+# Password Cracking Utilities
+ * Hashcat - https://github.com/Binula-Kavisinghe/hashcat  -  https://github.com/Binula-Kavisinghe/hashcat-legacy  -  https://github.com/Binula-Kavisinghe/hashcat-utils
 
 
-# NMAP - Network Security Auditing Tool
-https://github.com/Binula-Kavisinghe/hashcat
-
-
-# NCRACK - High-speed Network Authentication Cracking Tool
-https://github.com/Binula-Kavisinghe/ncrack
-
+# Network Security Auditing Tool
+* NMAP - Network Security Auditing Tool - https://github.com/Binula-Kavisinghe/hashcat
+* NCRACK - High-speed Network Authentication Cracking Tool - https://github.com/Binula-Kavisinghe/ncrack
 
 # The BEEF Project - Browser Expoloitation Framework
 https://github.com/Binula-Kavisinghe/beef
