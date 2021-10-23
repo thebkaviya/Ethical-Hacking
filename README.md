@@ -1,10 +1,10 @@
 # Ethical-Hacking
 A List of tools that are handy for Ethical hacking
 
-Please star / fork this repository if it is useful for you, as we intend to count the cases. Our aim is to share this for atleast 500 - 1000 members...
+Please star / fork this repository if it is useful for you, as we intend to count the cases. Our aim is to share this for atleast 500 members...
 
-# The Fat Rat - A Backdoor Utility
-https://github.com/Binula-Kavisinghe/TheFatRat
+# Remote Access Trojans (RAT) - To backdoor systems
+ * The Fat Rat - https://github.com/Binula-Kavisinghe/TheFatRat
 
 
 # Hashcat - Password Cracking Utility
