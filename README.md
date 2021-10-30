@@ -41,8 +41,8 @@ Please star / fork this repository if it is useful for you, as we intend to coun
 
 
 # Denial of Service Attacks
-https://github.com/Binula-Kavisinghe/DOS-Attack-Script
-https://github.com/Binula-Kavisinghe/webdos-ddoser
+* DOS Attack Script - https://github.com/Binula-Kavisinghe/DOS-Attack-Script
+* Web DOS - https://github.com/Binula-Kavisinghe/webdos-ddoser
 
 
 # File Encryptors
