@@ -3,7 +3,7 @@ A List of tools that are handy for Ethical hacking
 
 Please star / fork this repository if it is useful for you, as we intend to count the cases. Our aim is to share this for atleast 500 members...
 
-# *Please not that these tools are for educational perposes ONLY. Please do NOT use them on others devices without PRIOR CONSENT. We are NOT RESPONSIBLE for ANY damage caused.
+# *Please not that these tools are for educational purposes ONLY. Please do NOT use them on others devices without PRIOR CONSENT. We are NOT RESPONSIBLE for ANY damage caused.
 
 
 # Remote Access Trojans (RAT) - To backdoor systems
