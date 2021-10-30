@@ -21,7 +21,7 @@ Please star / fork this repository if it is useful for you, as we intend to coun
 
 
 # Network Security Auditing Tool
-* NMAP - Network Security Auditing Tool - https://github.com/Binula-Kavisinghe/hashcat
+* NMAP - Network Security Auditing Tool - https://github.com/Binula-Kavisinghe/nmap
 * NCRACK - High-speed Network Authentication Cracking Tool - https://github.com/Binula-Kavisinghe/ncrack
 * Linux WIFI Hotspot - Create wifi Hotspots in linux - https://github.com/Binula-Kavisinghe/linux-wifi-hotspot
 * TCP Dump - Data-Network Packet Analyzer - https://github.com/Binula-Kavisinghe/tcpdump
